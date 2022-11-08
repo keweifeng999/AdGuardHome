@@ -1,6 +1,4 @@
 127.0.0.1 analytics.163.com
-127.0.0.1 https://v2.euqq.cn/
 127.0.0.1 v2.euqq.cn
-127.0.0.1 http://jg.awaliwa.com
 127.0.0.1 jg.awaliwa.com
 127.0.0.1 awaliwa.com
